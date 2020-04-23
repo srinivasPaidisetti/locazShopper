@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978134578381",
+    "firebase_url": "https://locazshopper-d8775.firebaseio.com",
+    "project_id": "locazshopper-d8775",
+    "storage_bucket": "locazshopper-d8775.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978134578381:android:5c0a4e0ecf98b13f95a584",
+        "android_client_info": {
+          "package_name": "com.locazshopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978134578381-1emqom1idm8h4o9df04fajhus8i6buin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq8L_FdRnPm2FTdrr1SjC98X1DbF5G3A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978134578381-1emqom1idm8h4o9df04fajhus8i6buin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
